@@ -1,4 +1,4 @@
-# TwitterBot
+# TwitterBot Alpha (currently under heavy development)
 
 This bot scrapes data from the internet, processes it and posts it on Twitter. This specific bot posts financial data. 
 
