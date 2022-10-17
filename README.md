@@ -7,6 +7,7 @@ This bot scrapes data from the internet, processes it and posts it on Twitter. T
 You must have python3 installed. 
 
 pip install bs4
+
 pip install tweepy (maybe should do own)
 
 
