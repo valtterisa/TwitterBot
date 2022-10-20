@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # reading keys from file
 
 # open keys.txt file
-file = open("C:/Users/Valtteri/OneDrive - University of Eastern Finland/Documents/BottiProjekti/TwitterBot/keys.txt","r")
+file = open("/keys.txt","r")
 read = file.readlines()
 
 # create new array for elements
