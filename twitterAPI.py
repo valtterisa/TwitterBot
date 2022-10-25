@@ -77,7 +77,7 @@ def get_index_data(url):
     return data
 
 # Tweet data
-def tweetAll(arg1,arg2) :
+def tweetAll() :
 
     # add current date and time (day/month/year) 
     time_now = datetime.datetime.now().strftime("%d/%m/%Y")
