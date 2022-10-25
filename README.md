@@ -10,6 +10,6 @@ You must have python3 installed.
 
 pip install bs4
 
-pip install tweepy (maybe should do own)
+pip install tweepy
 
 
